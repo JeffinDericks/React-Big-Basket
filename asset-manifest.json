@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Big-Basket/static/css/main.b04b0907.css",
+    "main.js": "/React-Big-Basket/static/js/main.8f40bed3.js",
+    "static/js/787.eff22e2b.chunk.js": "/React-Big-Basket/static/js/787.eff22e2b.chunk.js",
+    "static/media/bb-delivery.jpg": "/React-Big-Basket/static/media/bb-delivery.bfc17aebfd88fe4283ca.jpg",
+    "static/media/buynow.jpg": "/React-Big-Basket/static/media/buynow.1551477a68a8eec0f323.jpg",
+    "static/media/play.png": "/React-Big-Basket/static/media/play.1356e28db6ea7296dd5d.png",
+    "static/media/bbblack.png": "/React-Big-Basket/static/media/bbblack.2dc113204a595e799002.png",
+    "static/media/logo.svg": "/React-Big-Basket/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/React-Big-Basket/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Big-Basket/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Big-Basket/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Big-Basket/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Big-Basket/index.html",
+    "main.b04b0907.css.map": "/React-Big-Basket/static/css/main.b04b0907.css.map",
+    "main.8f40bed3.js.map": "/React-Big-Basket/static/js/main.8f40bed3.js.map",
+    "787.eff22e2b.chunk.js.map": "/React-Big-Basket/static/js/787.eff22e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04b0907.css",
+    "static/js/main.8f40bed3.js"
+  ]
+}
