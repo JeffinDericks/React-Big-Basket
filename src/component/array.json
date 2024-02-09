@@ -1,0 +1,417 @@
+{
+    "name": "jeffin",
+    "count": 0,
+    "carousel": [
+        {
+            "img": "https://i1.wp.com/askmeoffers.com/wp-content/uploads/2019/08/bigbasket-banner-1-1.jpg"
+        },
+        {
+            "img": "https://www.fusioninformatics.com/images/famous-app/bigbasket-banner-mobile.jpg"
+        },
+        {
+            "img": "https://entrackr.com/storage/2023/06/Bigbasket-image-01-scaled.jpg"
+        }
+    ],
+    "teacarousel": [
+        {
+            "img1": "https://www.bigbasket.com/media/uploads/banner_images/ZXPL7199-l2-bev-c-Emperia-Tea-Common-1200x300-25-jan-24.jpg?tr=w-1920,q=80"
+        },
+        {
+            "img1": "https://www.bigbasket.com/media/uploads/banner_images/ZXPL7174-l2-bev-c-Emperia-CTC-Leaf-Tea-1200x300-25-jan-24.jpg?tr=w-1920,q=80"
+        },
+        {
+            "img1": "https://www.bigbasket.com/media/uploads/banner_images/ZXPL7192-l2-bev-c-Emperia-Green-Tea-1200x300-25-jan-24.jpg?tr=w-1920,q=80"
+        }
+    ],
+    "fruitcarousel": [
+        {
+            "img1": "https://wholesaledryfruits.in/wp-content/uploads/2022/07/1d26290b1496d2637509f5c9e44bd7c8.jpg"
+        },
+        {
+            "img1": "https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-summer-fruits-and-vegetables-hand-painted-geometric-small-fresh-green-background-image_157292.jpg"
+        },
+        {
+            "img1": "https://www.jiomart.com/images/cms/offers/1679072802_Mobile_Landing.jpg"
+        }
+    ],
+    "list": [
+        {
+            "id": 1,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000067_23-fresho-capsicum-green.jpg?tr=w-1920,q=80",
+            "name": "Capsicum-Green(Loose)",
+            "price": 49,
+            "size": "S M L XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 499,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000070_15-fresho-carrot-orange.jpg?tr=w-1920,q=80",
+            "name": "Carrot-Orange(Loose)",
+            "price": 66,
+            "size": "S M L XL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 399,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000074_19-fresho-cauliflower.jpg?tr=w-1920,q=80",
+            "name": "Cauliflower",
+            "price": 28,
+            "size": "M L XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 599,
+            "product": "vegetables",
+            "rating": 2
+        },
+        {
+            "id": 4,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000326_14-fresho-coriander-leaves.jpg?tr=w-1920,q=80",
+            "name": "Coriander Leaves",
+            "price": 64,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "vegetables",
+            "rating": 3
+        },
+        {
+            "id": 5,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40077518_1-fresho-cucumber.jpg?tr=w-1920,q=80",
+            "name": "Cucumber",
+            "price": 24,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 6,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000142_17-fresho-ladies-finger.jpg?tr=w-1920,q=80",
+            "name": "Ladies's Fingers(Loose)",
+            "price": 57,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 7,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000150_19-fresho-onion.jpg?tr=w-1920,q=80",
+            "name": "Onion(Loose)",
+            "price": 32,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 8,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40048459_8-fresho-potato-new-crop.jpg?tr=w-1920,q=80",
+            "name": "Potato(Loose)",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "vegetables",
+            "rating": 4
+        },
+        {
+            "id": 9,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40215105_5-emperia-masters-blend-tea-rich-taste.jpg?tr=w-1920,q=80",
+            "name": "Emperia",
+            "price": 49,
+            "size": "S M L XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 499,
+            "product": "tea",
+            "rating": 5
+        },
+        {
+            "id": 10,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/1204482_1-red-label-tea.jpg?tr=w-1920,q=80",
+            "name": "Red Label",
+            "price": 66,
+            "size": "S M L XL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 399,
+            "product": "tea",
+            "rating": 5
+        },
+        {
+            "id": 11,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/172843_7-taj-mahal-tea.jpg?tr=w-1920,q=80",
+            "name": "Taj Mahal",
+            "price": 28,
+            "size": "M L XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 599,
+            "product": "tea",
+            "rating": 4
+        },
+        {
+            "id": 12,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/264377_4-tata-tea-kanan-devan-tea.jpg?tr=w-1920,q=80",
+            "name": "Tata Tea Kanan Devan",
+            "price": 64,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "tea",
+            "rating": 4
+        },
+        {
+            "id": 13,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/266596_7-3-roses-dust-tea.jpg?tr=w-1920,q=80",
+            "name": "3 Roses",
+            "price": 24,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "tea",
+            "rating": 3
+        },
+        {
+            "id": 14,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/1204528_1-lipton-green-tea-honey-lemon.jpg?tr=w-1920,q=80",
+            "name": "Lipton Green Tea",
+            "price": 57,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "tea",
+            "rating": 1
+        },
+        {
+            "id": 15,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/297576_15-tata-tea-chakra-gold-dust-tea.jpg?tr=w-1920,q=80",
+            "name": "Tata Chakra Gold",
+            "price": 32,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "tea",
+            "rating": 2
+        },
+        {
+            "id": 16,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40200082_3-tata-tea-gold-tea.jpg?tr=w-1920,q=80",
+            "name": "Tata Tea Gold",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "tea",
+            "rating": 3
+        },
+        {
+            "id": 17,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/20000911_32-fresho-kiwi-green.jpg?tr=w-1920,q=80",
+            "name": "Kiwi-Green",
+            "price": 130,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 18,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40008982_15-fresho-dragon-fruit.jpg?tr=w-1920,q=80",
+            "name": "Dragon Fruit (Loose)",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 19,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/1202322_1-fresho-pear-green-imported.jpg?tr=w-1920,q=80",
+            "name": "Pear-Green, Imported",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 20,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/30002322_11-fresho-guava-thai.jpg?tr=w-1920,q=80",
+            "name": "Guava-Thai (Loose)",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 21,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/30009286_9-fresho-blueberry.jpg?tr=w-1920,q=80",
+            "name": "Blueberry",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 22,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/20001006_8-fresho-fresh-figs.jpg?tr=w-1920,q=80",
+            "name": "Fresh Figs",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 23,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/10000573_14-fresho-plum-imported.jpg?tr=w-1920,q=80",
+            "name": "Plum Imported",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 24,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40085589_1-fresho-raspberry-imported.jpg?tr=w-1920,q=80",
+            "name": "Raspberry - Imported",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 25,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40218335_2-fresho-litchi.jpg?tr=w-1920,q=80",
+            "name": "Litchi",
+            "price": 42,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 26,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/20000708_14-fresho-pomegranate.jpg?tr=w-1920,q=80",
+            "name": "Pomegranate",
+            "price": 180,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        },
+        {
+            "id": 27,
+            "img": "https://www.bigbasket.com/media/uploads/p/m/40134281_15-fresho-baby-apple-shimla.jpg?tr=w-1920,q=80",
+            "name": "Apple",
+            "price": 195,
+            "size": " XL XXL",
+            "boolean": false,
+            "isBtn": false,
+            "search": false,
+            "count": 1,
+            "total": 199,
+            "product": "fruit",
+            "rating": 3
+        }
+    ]
+}
