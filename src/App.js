@@ -17,15 +17,15 @@ function App() {
   return (
     <div className="App">
       <Provider store={Store}>
-      <BrowserRouter>
-                <Routes>
-                    <Route path='/' element={<Home />} />
-                    <Route path='/tea' element={<Teahome/>} />
-                    <Route path='/fruits' element={<Fruithome/>} />
-                    <Route path='/cart' element={<Cartpage />} />
-                    <Route path='/productdetails' element={<Productdetailspage/>} />
-                    <Route path='/buynow' element={<Buynow/>} />
-                </Routes>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
+          <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/tea' element={<Teahome />} />
+            <Route path='/fruits' element={<Fruithome />} />
+            <Route path='/cart' element={<Cartpage />} />
+            <Route path='/productdetails' element={<Productdetailspage />} />
+            <Route path='/buynow' element={<Buynow />} />
+          </Routes>
         </BrowserRouter>
       </Provider>
     </div>
